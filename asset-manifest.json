@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.21cb4473.chunk.css",
-    "main.js": "/static/js/main.2a262bbb.chunk.js",
-    "main.js.map": "/static/js/main.2a262bbb.chunk.js.map",
+    "main.css": "/static/css/main.7662c1fa.chunk.css",
+    "main.js": "/static/js/main.43cb1e58.chunk.js",
+    "main.js.map": "/static/js/main.43cb1e58.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5eaf92f9.js",
     "runtime-main.js.map": "/static/js/runtime-main.5eaf92f9.js.map",
     "static/css/2.d88a60dc.chunk.css": "/static/css/2.d88a60dc.chunk.css",
-    "static/js/2.2d2ee23c.chunk.js": "/static/js/2.2d2ee23c.chunk.js",
-    "static/js/2.2d2ee23c.chunk.js.map": "/static/js/2.2d2ee23c.chunk.js.map",
+    "static/js/2.439b7f7a.chunk.js": "/static/js/2.439b7f7a.chunk.js",
+    "static/js/2.439b7f7a.chunk.js.map": "/static/js/2.439b7f7a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.127f0c07c1630e619a5019d24ccb70d8.js": "/precache-manifest.127f0c07c1630e619a5019d24ccb70d8.js",
+    "precache-manifest.5c688be8d9c3a513e2dfcacb26b7da30.js": "/precache-manifest.5c688be8d9c3a513e2dfcacb26b7da30.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d88a60dc.chunk.css.map": "/static/css/2.d88a60dc.chunk.css.map",
-    "static/css/main.21cb4473.chunk.css.map": "/static/css/main.21cb4473.chunk.css.map",
-    "static/js/2.2d2ee23c.chunk.js.LICENSE.txt": "/static/js/2.2d2ee23c.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/static/media/ink.18984ed6.png"
+    "static/css/main.7662c1fa.chunk.css.map": "/static/css/main.7662c1fa.chunk.css.map",
+    "static/js/2.439b7f7a.chunk.js.LICENSE.txt": "/static/js/2.439b7f7a.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/ink.18984ed6.png",
+    "static/media/internet-3113279_640.jpg": "/static/media/internet-3113279_640.497a658e.jpg",
+    "static/media/mario-1557975_640.jpg": "/static/media/mario-1557975_640.7eee503a.jpg",
+    "static/media/seawaves-on-sands-982263.jpg": "/static/media/seawaves-on-sands-982263.4ae5da62.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5eaf92f9.js",
     "static/css/2.d88a60dc.chunk.css",
-    "static/js/2.2d2ee23c.chunk.js",
-    "static/css/main.21cb4473.chunk.css",
-    "static/js/main.2a262bbb.chunk.js"
+    "static/js/2.439b7f7a.chunk.js",
+    "static/css/main.7662c1fa.chunk.css",
+    "static/js/main.43cb1e58.chunk.js"
   ]
 }
