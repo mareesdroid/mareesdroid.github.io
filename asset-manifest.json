@@ -1,29 +1,35 @@
 {
   "files": {
-    "main.css": "/static/css/main.7662c1fa.chunk.css",
-    "main.js": "/static/js/main.43cb1e58.chunk.js",
-    "main.js.map": "/static/js/main.43cb1e58.chunk.js.map",
+    "main.css": "/static/css/main.39396ef7.chunk.css",
+    "main.js": "/static/js/main.d2a4979f.chunk.js",
+    "main.js.map": "/static/js/main.d2a4979f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5eaf92f9.js",
     "runtime-main.js.map": "/static/js/runtime-main.5eaf92f9.js.map",
     "static/css/2.d88a60dc.chunk.css": "/static/css/2.d88a60dc.chunk.css",
-    "static/js/2.439b7f7a.chunk.js": "/static/js/2.439b7f7a.chunk.js",
-    "static/js/2.439b7f7a.chunk.js.map": "/static/js/2.439b7f7a.chunk.js.map",
+    "static/js/2.fe1fd602.chunk.js": "/static/js/2.fe1fd602.chunk.js",
+    "static/js/2.fe1fd602.chunk.js.map": "/static/js/2.fe1fd602.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5c688be8d9c3a513e2dfcacb26b7da30.js": "/precache-manifest.5c688be8d9c3a513e2dfcacb26b7da30.js",
+    "precache-manifest.b1fded96b453d6fdc6e658bc42846e7e.js": "/precache-manifest.b1fded96b453d6fdc6e658bc42846e7e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d88a60dc.chunk.css.map": "/static/css/2.d88a60dc.chunk.css.map",
-    "static/css/main.7662c1fa.chunk.css.map": "/static/css/main.7662c1fa.chunk.css.map",
-    "static/js/2.439b7f7a.chunk.js.LICENSE.txt": "/static/js/2.439b7f7a.chunk.js.LICENSE.txt",
+    "static/css/main.39396ef7.chunk.css.map": "/static/css/main.39396ef7.chunk.css.map",
+    "static/js/2.fe1fd602.chunk.js.LICENSE.txt": "/static/js/2.fe1fd602.chunk.js.LICENSE.txt",
+    "static/media/1_qlcWmkVl-rJm7Mk1xfce_Q (2).png": "/static/media/1_qlcWmkVl-rJm7Mk1xfce_Q (2).bc894c9f.png",
+    "static/media/371425_preview.png": "/static/media/371425_preview.3c7de390.png",
+    "static/media/CSS3_logo_and_wordmark.png": "/static/media/CSS3_logo_and_wordmark.98723c71.png",
+    "static/media/React.js_logo-512.png": "/static/media/React.js_logo-512.47ce6e77.png",
+    "static/media/express-routing-logo (1).png": "/static/media/express-routing-logo (1).ab29180f.png",
     "static/media/style.css": "/static/media/ink.18984ed6.png",
     "static/media/internet-3113279_640.jpg": "/static/media/internet-3113279_640.497a658e.jpg",
     "static/media/mario-1557975_640.jpg": "/static/media/mario-1557975_640.7eee503a.jpg",
-    "static/media/seawaves-on-sands-982263.jpg": "/static/media/seawaves-on-sands-982263.4ae5da62.jpg"
+    "static/media/seawaves-on-sands-982263.jpg": "/static/media/seawaves-on-sands-982263.4ae5da62.jpg",
+    "static/media/spring-3-logo-png-transparent (1).png": "/static/media/spring-3-logo-png-transparent (1).d72e05ae.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5eaf92f9.js",
     "static/css/2.d88a60dc.chunk.css",
-    "static/js/2.439b7f7a.chunk.js",
-    "static/css/main.7662c1fa.chunk.css",
-    "static/js/main.43cb1e58.chunk.js"
+    "static/js/2.fe1fd602.chunk.js",
+    "static/css/main.39396ef7.chunk.css",
+    "static/js/main.d2a4979f.chunk.js"
   ]
 }
