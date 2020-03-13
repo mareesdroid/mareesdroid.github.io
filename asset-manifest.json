@@ -1,35 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa8133a5.chunk.css",
-    "main.js": "/static/js/main.510fb75b.chunk.js",
-    "main.js.map": "/static/js/main.510fb75b.chunk.js.map",
+    "main.css": "/static/css/main.f2867a18.chunk.css",
+    "main.js": "/static/js/main.47321484.chunk.js",
+    "main.js.map": "/static/js/main.47321484.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5eaf92f9.js",
     "runtime-main.js.map": "/static/js/runtime-main.5eaf92f9.js.map",
-    "static/css/2.d88a60dc.chunk.css": "/static/css/2.d88a60dc.chunk.css",
-    "static/js/2.4f4549dc.chunk.js": "/static/js/2.4f4549dc.chunk.js",
-    "static/js/2.4f4549dc.chunk.js.map": "/static/js/2.4f4549dc.chunk.js.map",
+    "static/css/2.c912c120.chunk.css": "/static/css/2.c912c120.chunk.css",
+    "static/js/2.3faef82c.chunk.js": "/static/js/2.3faef82c.chunk.js",
+    "static/js/2.3faef82c.chunk.js.map": "/static/js/2.3faef82c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f4b7238150a7430fdb0bcc162c55f023.js": "/precache-manifest.f4b7238150a7430fdb0bcc162c55f023.js",
+    "precache-manifest.79f336d80dc8ffa906818dd74054fecc.js": "/precache-manifest.79f336d80dc8ffa906818dd74054fecc.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.d88a60dc.chunk.css.map": "/static/css/2.d88a60dc.chunk.css.map",
-    "static/css/main.aa8133a5.chunk.css.map": "/static/css/main.aa8133a5.chunk.css.map",
-    "static/js/2.4f4549dc.chunk.js.LICENSE.txt": "/static/js/2.4f4549dc.chunk.js.LICENSE.txt",
-    "static/media/1_qlcWmkVl-rJm7Mk1xfce_Q (2).png": "/static/media/1_qlcWmkVl-rJm7Mk1xfce_Q (2).bc894c9f.png",
-    "static/media/371425_preview.png": "/static/media/371425_preview.3c7de390.png",
-    "static/media/CSS3_logo_and_wordmark.png": "/static/media/CSS3_logo_and_wordmark.98723c71.png",
-    "static/media/React.js_logo-512.png": "/static/media/React.js_logo-512.47ce6e77.png",
-    "static/media/express-routing-logo (1).png": "/static/media/express-routing-logo (1).ab29180f.png",
+    "static/css/2.c912c120.chunk.css.map": "/static/css/2.c912c120.chunk.css.map",
+    "static/css/main.f2867a18.chunk.css.map": "/static/css/main.f2867a18.chunk.css.map",
+    "static/js/2.3faef82c.chunk.js.LICENSE.txt": "/static/js/2.3faef82c.chunk.js.LICENSE.txt",
     "static/media/style.css": "/static/media/ink.18984ed6.png",
     "static/media/internet-3113279_640.jpg": "/static/media/internet-3113279_640.497a658e.jpg",
     "static/media/mario-1557975_640.jpg": "/static/media/mario-1557975_640.7eee503a.jpg",
-    "static/media/seawaves-on-sands-982263.jpg": "/static/media/seawaves-on-sands-982263.4ae5da62.jpg",
-    "static/media/spring-3-logo-png-transparent (1).png": "/static/media/spring-3-logo-png-transparent (1).d72e05ae.png"
+    "static/media/seawaves-on-sands-982263.jpg": "/static/media/seawaves-on-sands-982263.4ae5da62.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5eaf92f9.js",
-    "static/css/2.d88a60dc.chunk.css",
-    "static/js/2.4f4549dc.chunk.js",
-    "static/css/main.aa8133a5.chunk.css",
-    "static/js/main.510fb75b.chunk.js"
+    "static/css/2.c912c120.chunk.css",
+    "static/js/2.3faef82c.chunk.js",
+    "static/css/main.f2867a18.chunk.css",
+    "static/js/main.47321484.chunk.js"
   ]
 }
